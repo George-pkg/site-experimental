@@ -29,3 +29,24 @@ main > h1{
     padding-top: 10px;
     padding-bottom: 25px;
 }
+
+input {
+    outline: none;
+    border: none;
+}
+
+.gmail{
+    font-family: Poppins-Regular;
+    font-size: 15px;
+    color: #555;
+    line-height: 1.2;
+    display: block;
+    width: 100%;
+    height: 45px;
+    background: 0 0;
+    padding: 0 5px;
+}
+
+.lin-put {
+    border-bottom: gray;
+}
