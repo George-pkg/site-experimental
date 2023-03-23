@@ -12,14 +12,14 @@ body {
 }
 
 div {
-    height: 60px;
+    height: 40px;
 }
 
 main {
-    background-color: lightblue;
-    padding: 5px;
-    width: 600px;
-    height: 600px;
+    background-color: white;
+    padding: 77px 55px 33px;
+    width: 280px;
+    height: 540px;
     margin: auto;
 }
 
